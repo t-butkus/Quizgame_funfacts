@@ -1,0 +1,13 @@
+# Buildozer & Android build files
+.buildozer/
+bin/
+*.apk
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+buildozer-env/
